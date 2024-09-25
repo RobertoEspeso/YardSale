@@ -21,7 +21,7 @@
     flex-direction: column;
 }
 .form a{
-    color: var(--very-light-pinki);
+    color: var(--very-light-pink);
     font-size: var(--font_sm);
     text-align: center;
     text-decoration: none;
